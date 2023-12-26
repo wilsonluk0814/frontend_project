@@ -1,0 +1,15 @@
+.product-title{
+    font-size: 16px;
+}
+
+.product-title:hover{
+    cursor: pointer;
+}
+
+.product-image{
+    border: 1px white solid;
+}
+
+.product-image:hover{
+    cursor: pointer;
+}
